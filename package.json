@@ -14,7 +14,7 @@
     "element-ui": "^2.13.0",
     "fastclick": "^1.0.6",
     "ly-tab": "^2.1.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "vue": "^2.5.2",
     "vue-fullcalendar": "^1.0.9",
     "vue-router": "^3.0.1"
